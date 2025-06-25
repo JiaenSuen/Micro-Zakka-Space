@@ -1,0 +1,21 @@
+https://en.wikipedia.org/wiki/Automatic_number-plate_recognition
+
+Dataset :
+https://universe.roboflow.com/jackresearch0/taiwan-license-plate-recognition-research-tlprr
+
+Haar Cascade :
+https://medium.com/analytics-vidhya/license-plate-detection-from-car-images-by-using-harr-cascade-and-open-cv-255f296557cc
+https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
+
+YOLOv11 :
+https://youtu.be/A1V8yYlGEkI?si=mW1gwJIHqHvv4qw_
+
+Tesseract : 
+https://youtu.be/HNCypVfeTdw?si=QKNs4VImqRJ_qHMb
+https://ithelp.ithome.com.tw/m/articles/10233316
+
+
+
+
+Future :
+https://hub.baai.ac.cn/view/4556
