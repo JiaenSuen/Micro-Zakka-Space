@@ -1,0 +1,8 @@
+names:
+- Platelets
+- RBC
+- WBC
+nc: 3
+test: e:\Torch_Project\YOLO\BCD_yolo_v8\BCD\test/images
+train: e:\Torch_Project\YOLO\BCD_yolo_v8\BCD\train/images
+val: e:\Torch_Project\YOLO\BCD_yolo_v8\BCD\valid/images
