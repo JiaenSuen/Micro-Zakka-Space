@@ -3,4 +3,4 @@
 
 Datasets URL : https://www.kaggle.com/datasets/paultimothymooney/blood-cells  
 
-![img](/test_result.jpg)
+![img](test_result.jpg)
